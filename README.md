@@ -10,6 +10,7 @@ Kelas   : Grafika Komputer A
 Tahun   : 2023 / 2024 (Ganjil)
 
 ## Output 
-![image](https://github.com/Caknoooo/Grafkom_2D_3D_WebGL_Simple/assets/92671053/c76a6f81-ec31-46cc-bfa7-4a4fd895402b)
+![image](https://github.com/Caknoooo/Grafkom_2D_3D_WebGL_Simple/assets/92671053/c167a989-dc47-4bf7-98d5-d754c93069b1)
 
-![image](https://github.com/Caknoooo/Grafkom_2D_3D_WebGL_Simple/assets/92671053/8135d593-fb9c-4c44-9ac2-5789857cb006)
+![image](https://github.com/Caknoooo/Grafkom_2D_3D_WebGL_Simple/assets/92671053/a676c737-b760-45aa-9d53-6ec99aff1407)
+
