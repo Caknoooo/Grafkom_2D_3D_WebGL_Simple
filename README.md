@@ -12,4 +12,4 @@ Tahun   : 2023 / 2024 (Ganjil)
 ## Output 
 ![image](https://github.com/Caknoooo/Grafkom_2D_3D_WebGL_Simple/assets/92671053/c76a6f81-ec31-46cc-bfa7-4a4fd895402b)
 
-![image](https://github.com/Caknoooo/Grafkom_2D_3D_WebGL_Simple/assets/92671053/83e50b40-a84a-451a-a8e0-c9521305542a)
+![image](https://github.com/Caknoooo/Grafkom_2D_3D_WebGL_Simple/assets/92671053/8135d593-fb9c-4c44-9ac2-5789857cb006)
